@@ -6,7 +6,7 @@ The player runs forward automatically and steers left and right. Collecting bloc
 
 ## Gameplay
 
-- **Auto-run** forward with mouse / swipe-style horizontal steering
+- **Auto-run** forward with horizontal mouse steering
 - **Colour matching** across four colours: red, green, blue and yellow
 - **Stacking**: each matching block is added on top of the player's stack
 - **Game over** on hitting a block of the wrong colour
